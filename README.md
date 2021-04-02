@@ -5,5 +5,7 @@
 ### 102, gen private key and CSR: https://create.arduino.cc/projecthub/Arduino_Genuino/securely-connecting-an-arduino-mkr-wifi-1010-to-aws-iot-core-a9f365 
 ### Don't need to worry about locking ATECC508A to ECC608A crypto element as it doesn't lock data content and you can override it: https://forum.arduino.cc/index.php?topic=609739.0
 
+### aws side of the story on device connection, https://docs.aws.amazon.com/iot/latest/developerguide/iot-connect-devices.html
+
 ### flow
 #### device <-> MQTT Broker <-> AWS iot rules engine -> lambda 
