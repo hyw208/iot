@@ -6,5 +6,7 @@
 
 ### aws side of the story on device connection, https://docs.aws.amazon.com/iot/latest/developerguide/iot-connect-devices.html
 
+### how to build arduino lib, https://roboticsbackend.com/arduino-create-library/#:~:text=Simply%20open%20the%20Arduino%20IDE,t%20need%20to%20restart%20it.
+
 ### flow
 #### device <-> MQTT Broker <-> AWS iot rules engine -> 
