@@ -10,3 +10,9 @@
 
 ### flow
 #### device <-> MQTT Broker <-> AWS iot rules engine -> 
+
+
+
+Beside AWS, there are other similar providers, eg. Zapier, Arduino, 
+check out the tutorial: https://create.arduino.cc/projecthub/Arduino_Genuino/plant-communicator-with-mkr-wifi-1010-efc920
+
